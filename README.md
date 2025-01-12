@@ -1,20 +1,16 @@
-<img src="https://i.ibb.co/SVg9Hmh/image.jpg" alt="banner">
+<img src="https://i.ibb.co/z41Vb9f/image.jpg" alt="banner">
 <h1 align="center"><img src="![received_1106676897823577](https://github.com/user-attachments/assets/c25d3249-5962-4126-92b4-347e874b7bf5)
 " width="22px"> Telegram Bot V1</h1>
 
 ### Telegram Bot V1
-dossier pour les Bots télégram version 1 créer par <a href="https://www.facebook.com/profile.php?id=100084606198768" target="_blank">RONALD SORY ホ</a>
+dossier pour les Bots télégram version 1 créer par <a href="https://www.facebook.com/profile.php?id=61567813072795" target="_blank">ᎠᎯᏁ ᏠᎬᏒᏕᎬᎽ</a>
 
 ### TUTORIEL
 
 ## Étape 1 : Créer et obtenez le token de votre bot Telegram
  **Créer un bot Telegram:**
-   - ouvrez Telegram et créer un bot grâce à deux bots Telegram
-     - **Bot 1:** `many chat`
-     - **Bot 2:** `BotFather`
-   - Tutoriels de la création d'un bot telegram:
-     - <a href="https://www.facebook.com/share/v/15ca2B7At6/" target="_blank">Vidéo de la création d'un bot telegram</a> ☺️
-
+   - ouvrez Telegram et créer un bot grâce au bots Telegram
+     - **Bot :** `BotFather`
 ## Étape 2 : Configuration des fichiers
 **remplissez les fichiers**
 - Ouvrez le fichier `account.dev.txt` et remplacer `VOTRE_API_TOKEN` par votre token.
