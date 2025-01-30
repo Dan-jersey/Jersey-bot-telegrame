@@ -5,7 +5,7 @@ module.exports = (bot) => {
     const prompt = ctx.message.text.split(' ').slice(1).join(' '); 
 
     if (!prompt) {
-      return ctx.reply('Veuillez poser une question après la commande, comme : /ai Quelle est la capitale de la France ?');
+      return ctx.reply('yo Dan bot est dans la place pose ta  question après la commande, comme : /ai qui est Charles Darwin 🔥 ?');
     }
 
     try {
