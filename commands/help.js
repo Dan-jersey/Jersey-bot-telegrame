@@ -14,7 +14,7 @@ module.exports = (bot) => {
        
         ];
 
-        let message = '📜 **Liste des commandes disponibles :**\n\n';
+        let message = '📜 **le Dan liste des commandes  :**\n\n';
         commands.forEach(cmd => {
             message += `╭─❍\n│ ✧${cmd.command} \n│- ${cmd.description}\n╰─━━━━━━━━━━━━━╾─◊\n`;
         });
