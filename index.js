@@ -23,7 +23,7 @@ require('./commands/translate')(bot);
 require('./commands/start')(bot);
 require('./commands/imgbb')(bot);
 require('./commands/getid')(bot);
-require('./commands/Dan jersey')(bot);
+require('./commands/Dan')(bot);
 
 bot.telegram.setWebhook(`${URL}/bot${token}`);
 app.use(bot.webhookCallback(`/bot${token}`));
